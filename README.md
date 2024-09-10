@@ -1,4 +1,4 @@
-# PHP-Crud
+# PHP-CRUD
 
 This repository contains a basic PHP CRUD application.
 
